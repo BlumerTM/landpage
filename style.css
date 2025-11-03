@@ -238,7 +238,7 @@ nav {
     left: 50%;
     width: 0;
     height: 100%;
-    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100"><rect fill="%236C63FF" opacity="0.3" width="200" height="100"/><circle cx="100" cy="50" r="30" fill="%23FF6584" opacity="0.5"/><path d="M60,30 Q100,10 140,30 T180,50" stroke="%239D8CFF" stroke-width="3" fill="none"/></svg>');
+    background-image: url('./img/BLUE.png');
     background-size: cover;
     background-position: center;
     transform: translateX(-50%) scaleX(0);
@@ -808,4 +808,5 @@ footer p {
     .gallery-grid {
         grid-template-columns: 1fr;
     }
+
 }
